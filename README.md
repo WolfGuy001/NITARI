@@ -6,7 +6,7 @@
 
 [English](README.md) | [Русский](README.ru.md)
 
-![Nitari](1.png)
+![Nitari](IMG_20250424_090946_650.jpg)
 
 A free virtual singer with a soulthful male voice. Compatible with UTAU and OpenUTAU
 
