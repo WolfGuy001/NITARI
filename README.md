@@ -15,7 +15,7 @@ Nitari was created by a lonely, but happy programmer, as a helper for his creato
 ## General Information
 - Gender: Male
 - Species: AI
-- Height: 182cm
+- Height: 182 cm
 - Introduced: April 24, 2025
   
 ## Terms of use
