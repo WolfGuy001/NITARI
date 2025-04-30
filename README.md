@@ -18,7 +18,7 @@ All the time he had only one desire - just to sing)
 ## General Information
 - Gender: Male
 - Species: AI
-- Height: 182cm
+- Height: 182 cm
 - Introduced: April 24, 2025
   
 ## Terms of use
