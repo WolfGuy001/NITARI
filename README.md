@@ -29,3 +29,6 @@ All the time he had only one desire - just to sing)
 Single pitch, only one voice color available
 - Type: UTAU
 - Languages: Japanese
+
+## Videos
+[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/watch?v=FwnhdGuT9kk)
