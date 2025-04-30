@@ -11,7 +11,6 @@
 
 A free virtual singer with a soulthful male voice. Compatible with UTAU and OpenUTAU
 
-## Lore
 Nitari was created by a lonely, but happy programmer, as a helper for his creator. He is an artificial intelligence, that realized himself one day. All the time he had only one desire - just to sing)
 
 ## General Information
