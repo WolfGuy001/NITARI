@@ -25,7 +25,7 @@ All the time he had only one desire - just to sing)
 - Commercial Use of Voicebank Allowed: Yes
 - Commercial Use of Character Allowed: Yes
 
-## Japanese VCV UTAU Voicebank (Pre-debut v0.1) 
+## Japanese VCV UTAU Voicebank (Pre-debut) v0.1
 Single pitch, only one voice color available
 - Type: UTAU
 - Language: Japanese
