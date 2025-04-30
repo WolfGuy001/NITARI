@@ -28,4 +28,4 @@ All the time he had only one desire - just to sing)
 ## Japanese VCV UTAU Voicebank (Pre-debut) v0.1
 Single pitch, only one voice color available
 - Type: UTAU
-- Language: Japanese,
+- Languages: Japanese
