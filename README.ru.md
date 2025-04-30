@@ -5,7 +5,7 @@
 
 [English](README.md) | [Русский](README.ru.md)
 
-![Nitari](IMG_20250424_090946_650.jpg)
+![Nitari](image.png)
 
 Бесплатный виртуальный исполнитель, совместимый с UTAU и OpenUTAU 
 
