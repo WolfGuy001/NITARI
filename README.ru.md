@@ -27,3 +27,6 @@
 Один питч, на данный момент доступен только один голосовой оттенок
 - Тип: UTAU
 - Язык: Японский
+
+## Видео
+[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/watch?v=FwnhdGuT9kk)
