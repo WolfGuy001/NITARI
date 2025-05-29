@@ -31,5 +31,5 @@ Single pitch, only one voice color available
 - Languages: Japanese
 
 ## Videos
-[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/watch?v=FwnhdGuT9kk)
-[![Watch the video](https://i.ytimg.com/vi/0UvMEUe6J2Y/hqdefault.jpg?sqp=-oaymwFBCPYBEIoBSFryq4qpAzMIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB8AEB-AH-CYAC0AWKAgwIABABGD4gZSheMA8=&rs=AOn4CLAOHHTYggUffMI_lPgZIRgilCwO5g)](https://youtu.be/0UvMEUe6J2Y?si=nGpdkkQlKp5NZNMh)
+[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/live/FwnhdGuT9kk)
+[![Watch the video](https://img.youtube.com/vi/0UvMEUe6J2Y/mqdefault.jpg)](https://www.youtube.com/live/0UvMEUe6J2Y)
