@@ -29,4 +29,7 @@
 - Язык: Японский
 
 ## Видео
-[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/watch?v=FwnhdGuT9kk)
+[![Watch the video](https://img.youtube.com/vi/FwnhdGuT9kk/mqdefault.jpg)](https://www.youtube.com/live/FwnhdGuT9kk)
+[![Watch the video](https://img.youtube.com/vi/0UvMEUe6J2Y/mqdefault.jpg)](https://www.youtube.com/live/0UvMEUe6J2Y)
+
+
