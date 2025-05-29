@@ -9,7 +9,7 @@
 ![Nitari](image.png)
 
 
-A free virtual singer with a soulthful male voice. Compatible with UTAU and OpenUTAU
+A free virtual singer with a masculine voice. Compatible with UTAU and OpenUTAU
 
 Nitari was created by a lonely, but happy programmer, as a helper for his creator. 
 He is an artificial intelligence, that realized himself one day. 
